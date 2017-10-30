@@ -18,6 +18,7 @@ public class Sample {
         System.out.print("test");
         System.out.println("I Love BigBang");
         System.out.println("Fk CK");
+        System.out.println("Bye Big Bang");
     }
     
 }
